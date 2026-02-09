@@ -1,4 +1,6 @@
 Engineering Journal
+#Lance Russelle B. Portillo
+#Week 2 (Day 6)
 
 Artifact for the 2nd week of Training
 Date: 02-09-26
