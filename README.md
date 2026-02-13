@@ -50,10 +50,9 @@ What are my blockers? <br>
 
 End-of-day Checkout 
 
-My Big win:
+My Biggest win:
 <img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/8d97896d-0f2e-46a5-8e67-06cbaf28cd75" />
 <img width="1918" height="992" alt="image" src="https://github.com/user-attachments/assets/9ab9d0f0-5560-4f94-934c-5dcd935fba3c" />
-
 This image is Basic Front End Development and we do it on figma.
 
 
