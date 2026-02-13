@@ -86,7 +86,7 @@ This is my output on for the Back End (Chatbot)
 
 
 Artifact for the 2nd week of Training
-Date: 02-11-26
+Date: 02-12-26
 
 Morning Stand-Up: 8:15 A.M
 
@@ -106,3 +106,29 @@ My biggest Win:
 
 <img width="1269" height="720" alt="image" src="https://github.com/user-attachments/assets/de51b03e-b8d6-46bd-b5a2-0dc7b44fddc3" />
 This is their persona, because each AI (LLM) need their pesona so that it's not breakable whenever you chat it.
+
+
+
+
+
+### Week 2 (Day 10)
+
+
+Artifact for the 2nd week of Training
+Date: 02-13-26
+
+Morning Stand-Up: 8:15 A.M
+
+What did I do yesterday? <br> 
+-Yesterday, I finished the whole code and managed to deploy it succesfully.  <br>
+What will I do today? <br>
+-Today is the final day, we're going to present the code. <br>
+What are my blockers? <br>
+-None <br>
+
+End-of-day Checkout 
+
+My biggest Win: <br>
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/30256719-114b-4477-97b8-f544fea97710" /> <br>
+This image is the landpage that I did, and to be honest its so hard to debug it.
+
